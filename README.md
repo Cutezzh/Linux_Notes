@@ -1,2 +1,2 @@
 # Linux_Notes
-学习日记之Linux学习历程
+我的Linux修行之路
