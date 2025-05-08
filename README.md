@@ -1,2 +1,2 @@
 # Linux_Notes
-记录Linux学习历程
+学习日记之Linux学习历程
